@@ -10,3 +10,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Have a beagle called Buzzby
 -->
+
+- 🌱 I’m currently learning Terraform, AWS Code Pipelines
+- 🤔 I’m looking for help with migrating applications to AWS using Terraform and AWS Code Pipelines
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: Have a beagle called Buzzby
